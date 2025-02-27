@@ -11,10 +11,5 @@
     <artifactId>cucumber-java</artifactId>
     <version>5.7.0</version>
 </dependency>
-    <dependency>
-    <groupId>io.cucumber</groupId>
-    <artifactId>cucumber-java</artifactId>
-    <version>5.7.0</version>
-</dependency>
-  </dependencies>
+      </dependencies>
 </project>
